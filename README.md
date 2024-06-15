@@ -6,6 +6,7 @@ I'm fascinated with the natural and mathematical world.
 
 My main interests are:
 
+- Mathematics
 - 👨‍💻 Programming
 - 📊 Data Science
 - 📈 Machine Learning

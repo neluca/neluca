@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello everyone👋, I'm R.T. Romani
 
-<!--
-**neluca/neluca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a mathematics enthusiast with mild autism and have strong mathematical thinking skills.
 
-Here are some ideas to get you started:
+I am proficient in: algebra (linear algebra, basic group theory, quaternions, Lie groups and Lie algebras), analysis (ordinary differential equations, Fourier analysis, complex analysis, functional analysis), differential manifolds, quantum mechanics, and category theory. I am also an experienced enthusiast in functional programming paradigms and differentiable programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The tools I commonly use include:
+
+- Matlab
+- Python
+- Linux
+- Rust
+- C
+- Latex
+- My scratch paper and pen

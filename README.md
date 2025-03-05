@@ -1,5 +1,5 @@
 ![fib](https://github.com/neluca/fibonacci/blob/main/fib.png)
-## Hello everyone👋, I'm R.T. Romani
+## Hello everyone👋, I'm E.T. Romani
 
 I am a very friendly mathematics enthusiast who enjoys working quietly on my own, without any showiness, and I possess strong mathematical thinking skills.
 

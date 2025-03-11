@@ -8,9 +8,10 @@ I am proficient in: algebra (linear algebra, basic group theory, quaternions, Li
 The tools I commonly use include:
 
 - Matlab
-- Python
+- Python(Numpy, Polars, Matplotlib, Pytorch, Jax)
 - Linux
 - Rust
-- C
+- C/C++/CUDA
 - Latex
+- Duckdb
 - My scratch paper and pen

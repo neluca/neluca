@@ -14,4 +14,5 @@ The tools I commonly use include:
 - C/C++/CUDA
 - Latex
 - Duckdb
+- AI
 - My scratch paper and pen

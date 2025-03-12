@@ -10,7 +10,7 @@ The tools I commonly use include:
 - Matlab
 - Python(Numpy, Polars, Matplotlib, Pytorch, Jax)
 - Linux
-- Rust
+- Rust(PyO3, Maturin)
 - C/C++/CUDA
 - Latex
 - Duckdb

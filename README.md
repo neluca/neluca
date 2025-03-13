@@ -12,7 +12,7 @@ The tools I commonly use include:
 - Linux
 - Rust(PyO3, std)
 - C/C++/CUDA
-- Latex
+- Latex, Text Editor(VS Coude)
 - Duckdb
 - AI
 - My scratch paper and pen

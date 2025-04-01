@@ -9,7 +9,7 @@ The tools I commonly use include:
 
 - Matlab
 - Python(Numpy, Polars, Matplotlib, Pytorch, Jax, Maturin)
-- Linux
+- Linux/Raspberry-Pi
 - Rust(PyO3, std)
 - C/C++/CUDA/Triton
 - Latex, Text Editor(VS Coude)

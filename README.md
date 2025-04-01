@@ -11,7 +11,7 @@ The tools I commonly use include:
 - Python(Numpy, Polars, Matplotlib, Pytorch, Jax, Maturin)
 - Linux
 - Rust(PyO3, std)
-- C/C++/CUDA
+- C/C++/CUDA/Triton
 - Latex, Text Editor(VS Coude)
 - Duckdb
 - AI

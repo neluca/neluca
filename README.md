@@ -14,7 +14,7 @@ The tools I commonly use include:
 - C/C++/CUDA/Triton
 - Latex, Text Editor(VS Coude)
 - Duckdb
-- AI(LLM)
+- AI(LLM, VLM)
 - My scratch paper and pen
 
 The pursuit of knowledge should not be overly utilitarian. Utilitarianism should only be considered after one has acquired a deep and profound understanding of the subject matter.

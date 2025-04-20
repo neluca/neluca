@@ -9,7 +9,7 @@ I am proficient in: algebra (linear algebra, basic group theory, quaternions, Li
 
 The tools I commonly use include:
 
-- Matlab
+- Matlab(Simulink)
 - Python(Numpy, Polars, Matplotlib, Pytorch, Jax, Maturin, Numba)
 - Linux/Raspberry-Pi
 - Rust(PyO3, std)

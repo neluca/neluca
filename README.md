@@ -1,5 +1,5 @@
 ![fib](https://github.com/neluca/fibonacci/blob/main/fib.png)
-## Hello everyone👋, I'm E.T. Romani
+## Hello👋, I'm E.T. Romani
 
 I am a very friendly mathematics enthusiast who enjoys working quietly on my own. I am low-key, love freedom, and am organized in my work. I also have strong mathematical thinking skills. **I love my life.**
 

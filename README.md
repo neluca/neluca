@@ -1,25 +1,24 @@
 ![fib](https://github.com/neluca/fibonacci/blob/main/fib.png)
-## Hello👋, I'm Romani Isa
+## 👋 Hello, I'm Romani Isa
 
-I am a very friendly mathematics enthusiast who enjoys working quietly on my own. I am low-key, love freedom, and am organized in my work. I also have strong mathematical thinking skills. **I love my life.**
+I enjoy mathematics and quiet, focused work. I keep things simple, value independence, and stay organized. I think in mathematical structures and care about getting the details right.
 
 <details>
 <summary>More ...</summary>
-I am proficient in: algebra (linear algebra, basic group theory, quaternions, Lie groups and Lie algebras), analysis (ordinary differential equations, Fourier analysis, complex analysis, functional analysis), differential manifolds, quantum mechanics, and category theory. I am also an experienced enthusiast in functional programming paradigms and differentiable programming.
 
-The tools I commonly use include:
+📐 **Areas I enjoy exploring:** linear algebra, group theory, quaternions, Lie groups & Lie algebras, ordinary differential equations, Fourier analysis, complex analysis, functional analysis, differential manifolds, quantum mechanics, and category theory. I'm also drawn to functional programming paradigms and differentiable programming.
 
-- Matlab(Simulink)
-- Python(Numpy, Polars, Matplotlib, Pytorch, Jax, Maturin, Numba)
-- Linux/Raspberry-Pi
-- Rust(PyO3, std)
-- C/C++/CUDA/HIP/Triton
-- Latex, Text Editor(VS Coude)
-- Duckdb
-- AI(LLM, VLM, Anything-To-Anything)
-- My scratch paper and pen
+🛠 **Tools I use day to day:**
 
-The pursuit of knowledge should not be overly utilitarian. Utilitarianism should only be considered after one has acquired a deep and profound understanding of the subject matter.
+- Matlab (Simulink)
+- Python (NumPy, Polars, Matplotlib, PyTorch, JAX, Maturin, Numba)
+- Linux / Raspberry Pi
+- Rust (PyO3, std)
+- C / C++ / CUDA / HIP / Triton
+- LaTeX, VS Code
+- DuckDB
+- LLMs, VLMs, and multimodal models
+- Pen and paper
 
-Learning knowledge is different from learning skills. Learning knowledge involves systematically understanding its underlying principles, whereas learning skills is more akin to imitation. For example, when learning to program, merely mastering how to use a programming language and call libraries is learning a skill. In contrast, learning knowledge means understanding the design philosophy of the programming language, the characteristics of the compiler, the principles of compilation, and how to design efficient and elegant algorithms based on specific situations.
+💡 I think learning knowledge is different from learning skills. Knowledge means understanding the principles underneath — the design philosophy of a language, how its compiler works, how to craft algorithms that fit the problem. Skills are about using tools and calling libraries. Both matter, but I prefer to start from the principles.
 </details>

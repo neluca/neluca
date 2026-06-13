@@ -1,4 +1,3 @@
-![fib](https://github.com/neluca/fibonacci/blob/main/fib.png)
 ## 👋 Hello, I'm Romani Isa
 
 I enjoy mathematics and quiet, focused work. I keep things simple, value independence, and stay organized. I think in mathematical structures and care about getting the details right.
